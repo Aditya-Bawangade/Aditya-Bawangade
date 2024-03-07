@@ -7,7 +7,7 @@ so hit me up with any ideas that you might wanna pursue!
 ---
 
 ## 📲 Contact Information
-- **E-mail:** aditya.bawangade.21031@iitgoa.ac.in
+- **E-mail:** adityab1729@gmail.com
 - **Mobile:** +91 9421389854
 - **LinkedIn:** [Aditya Bawangade](https://www.linkedin.com/in/aditya-bawangade-290919223)
 - **Github Account:** [Aditya's Github](https://github.com/Aditya-Bawangade)
