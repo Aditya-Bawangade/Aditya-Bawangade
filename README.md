@@ -22,7 +22,7 @@ so hit me up with any ideas that you might wanna pursue!
 ---
 
 ## 💻 Skills
-### Programming Skills
+### 🐱‍💻 Programming Skills
 - C, C++, Python, Haskell, Prolog, Java, MIPS Assembly, FORTRAN.
 
 ### 👨🏻‍💻 Software Skills
