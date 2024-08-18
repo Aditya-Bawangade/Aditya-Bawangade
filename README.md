@@ -23,7 +23,7 @@ so hit me up with any ideas that you might wanna pursue!
 
 ## 💻 Skills
 ### 🐱‍💻 Programming Skills
-- C, C++, Python, Haskell, Prolog, Java, MIPS Assembly, FORTRAN.
+- C, C++, Python, Haskell.
 
 ### 👨🏻‍💻 Software Skills
 - Arduino IDE, LaTeX, MeshLab, AutoCAD, Markdown, MS Word, MS Excel, Linux, Windows, Git, GitHub.
@@ -32,7 +32,7 @@ so hit me up with any ideas that you might wanna pursue!
 - HTML, CSS, Javascript, React.js.
 
 ### ⚡ Digital Design Skills
-- MIPS Assembly, Xilinx Vivado, QtSpim, VHDL, Verilog.
+- System Verilog, MIPS Assembly, Xilinx Vivado, QtSpim, VHDL, Verilog.
 
 ---
 
