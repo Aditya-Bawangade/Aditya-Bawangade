@@ -1,6 +1,6 @@
 # Hi there! I am Aditya Rajesh Bawangade 👋🏻
 
-I am currently in my Junior Year studying Computer Science and Engineering  
+I am currently in my Senior Year studying Computer Science and Engineering  
 at the Indian Institute of Technology Goa. I am always open for collaborations,
 so hit me up with any ideas that you might wanna pursue!
 
